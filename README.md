@@ -1,4 +1,3 @@
-# AplikacjaPogodowaAPI
 # Opis zadania:
 Twoim zadaniem jest stworzenie prostego serwisu pogodowego, który wykorzystuje publiczne API pogodowe (np. OpenWeatherMap). Aplikacja powinna umożliwiać użytkownikowi wprowadzenie nazwy miasta lub automatycznie wykryć jego lokalizację, aby uzyskać informacje o aktualnej pogodzie w tym miejscu. Dodatkowo, aplikacja powinna przedstawiać ikony z odpowiednimi symbolami pogody oraz być zbudowana przy użyciu biblioteki Tailwind CSS.
 # Wymagania funkcjonalne:
